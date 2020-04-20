@@ -16,3 +16,5 @@
 [Real-time face detection on raspberry-py](https://medium.com/analytics-vidhya/real-time-face-detection-on-raspberry-pi-ea3f42508bcc)
 
 [Xailient documentation](https://xailient.readthedocs.io/en/latest/)
+
+[Face Detection](https://www.xailient.com/post/integrate-face-detection-in-your-app)
