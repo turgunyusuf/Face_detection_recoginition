@@ -6,6 +6,8 @@
 
 [Xailient](https://www.xailient.com/)
 
+[MTCNN](https://github.com/open-face/mtcnn)
+
 
 
 ### Usefull Articles
@@ -18,3 +20,5 @@
 [Xailient documentation](https://xailient.readthedocs.io/en/latest/)
 
 [Face Detection](https://www.xailient.com/post/integrate-face-detection-in-your-app)
+
+[MTCNN](https://medium.com/@Intellica.AI/a-guide-for-building-your-own-face-detection-recognition-system-910560fe3eb7)
