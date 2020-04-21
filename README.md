@@ -8,6 +8,10 @@
 
 [MTCNN](https://github.com/open-face/mtcnn)
 
+[Face-API](https://github.com/turgunyusuf/face-api.js)
+
+[Face-Mask Detection](https://github.com/aribornstein/CoronaFaceMaskDetectionTFJS)
+
 
 
 ### Usefull Articles
@@ -22,3 +26,7 @@
 [Face Detection](https://www.xailient.com/post/integrate-face-detection-in-your-app)
 
 [MTCNN](https://medium.com/@Intellica.AI/a-guide-for-building-your-own-face-detection-recognition-system-910560fe3eb7)
+
+[Real-time face recognition on browser](https://medium.com/@gjovanov/realtime-face-recognition-de1ee3076878)
+
+[Real-time Face mask detection](https://medium.com/microsoftazure/corona-face-mask-detection-with-custom-vision-and-tensorflow-js-86e5fff84373)
